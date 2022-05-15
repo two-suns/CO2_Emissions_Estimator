@@ -8,7 +8,7 @@ Using various vehicle data from the European Union (EU), predict CO2 emissions f
 Other questions we hope to answer include:
 
 What inputs more accurately predict emissions?
-What fuel type has the lowest emissions?
+Which fuel type has the lowest emissions?
 What effect do different fuel modes have on emissions?
 Technology
 Python, Jupyter Notebook, SQLite
