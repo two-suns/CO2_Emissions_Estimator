@@ -43,3 +43,4 @@ INTO public."co2_levels"
 FROM car_category AS cc
 FULL OUTER JOIN car_size AS s
 ON (s.id = cc.ids);
+--
