@@ -131,3 +131,6 @@ dmypy.json
 
 # DB_Password
 config.py
+
+# Ignore
+.DS_Store
