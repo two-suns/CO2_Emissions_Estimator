@@ -22,10 +22,10 @@ The team will communicate mainly through Slack and Zoom meetings.
   - ML_Model_2.ipynb
   - Model_Test_Table.xlsx
 * Data Prep/Cleaning
-  - Clean:Prep:Create/
+  - Clean & Prep & Create/
   - Resource/
 * Database 
-  - ERD:SQL Images/
+  - ERD & SQL Images/
   - Database/
 
 ### Data Exploration & Analysis
