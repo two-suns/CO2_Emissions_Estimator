@@ -17,7 +17,7 @@ The team will communicate mainly through Slack and Zoom meetings.
 
 ### Data Source
 [Kaggle: CO<sub>2</sub> Emissions from Cars](https://www.kaggle.com/datasets/vivovinco/monitoring-of-co2-emissions-from-passenger-cars)  
-#### Main Project Files
+#### Main Project Files & Folders
 * ML Model
   - ML_Model_2.ipynb
 * Data Prep/Cleaning
@@ -26,6 +26,8 @@ The team will communicate mainly through Slack and Zoom meetings.
 * Database 
   - ERD & SQL Images/
   - Database/
+* Dashboard
+  - Final Project Emissions.twbx
 
 ### Data Exploration & Analysis
 #### Exploration
