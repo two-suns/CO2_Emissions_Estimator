@@ -46,5 +46,5 @@ First, we ran a multiple linear regression model with all variables that showed 
 ### Dashboard
 "Google Slides Link"
 #### Tools and Interactivity
-We will utilize Tableau Public for our visualizations. Also, we will have a webpage with links for Tableau Public and google slides as well as information and results from our model. Our interactive elements will include:  
+
 * "List of interactive elements"
