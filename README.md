@@ -46,9 +46,9 @@ First, we ran a multiple linear regression model with all variables that showed 
 ### Presentation & Dashboard
 [Google Slides Draft](https://docs.google.com/presentation/d/1YBmfJ2yOlaomylhzkCNIPSoxClYus-hk2-i_hcmGUMo/edit#slide=id.p)
 #### Tools and Interactivity
-We will utilize Tableau Public for our visualizations. Also, we will have a webpage with links for Tableau Public and google slides as well as information and results from our model. Our interactive elements will include:  
+We will utilize Tableau Public for our visualizations. Also, we will have a webpage with links for Tableau Public and google slides as well as information and results from our model. Our interactive elements will include:
+
 * Clickable links
 * Hover over data points
 * User able to highlight different data via legend
-
-[Draft of Dashboard](https://public.tableau.com/app/profile/elliott.saxton/viz/FinalProjectEmissions_16537991811610/Dashboard1?publish=yes)
+Draft of Dashboard
