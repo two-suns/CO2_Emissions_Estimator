@@ -1,4 +1,3 @@
-<img src = "https://www.harleytherapy.co.uk/counselling/wp-content/uploads/080920_exhaustion.jpg" width="500" >
 
 # Final_Project #
 # Predict CO2 Emissions <br>
