@@ -20,7 +20,6 @@ The team will communicate mainly through Slack and Zoom meetings.
 #### Main Project Files
 * ML Model
   - ML_Model_2.ipynb
-  - Model_Test_Table.xlsx
 * Data Prep/Cleaning
   - Clean & Prep & Create/
   - Resource/
@@ -47,5 +46,5 @@ First, we ran a multiple linear regression model with all variables that showed 
 ### Dashboard
 "Google Slides Link"
 #### Tools and Interactivity
-We will utilize Tableau Public for our visualizations. Our interactive elements will include:  
+We will utilize Tableau Public for our visualizations. Also, we will have a webpage with links for Tableau Public and google slides as well as information and results from our model. Our interactive elements will include:  
 * "List of interactive elements"
