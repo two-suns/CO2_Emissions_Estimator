@@ -43,8 +43,12 @@ Several of the columns we wanted to run through our models had 'object' data typ
 ### Feature Selection and Model Choice
 First, we ran a multiple linear regression model with all variables that showed an obvious linear relationship with emissions. Then, we added the other feature columns which improved the score by nearly 20 points. We also tried single linear regression models with each variable, LASSO Regression, and Ridge Regression. Neither of these models gave us as high of an R2 score as the multiple linear regression model. Therefore, we chose the multiple linear regression model to move forward with. The final database prep increased our data points by approimately 2x. This actually led to another increase in our R2 score by approximately 20 points.
 
-### Dashboard
-"Google Slides Link"
+### Presentation & Dashboard
+[Google Slides Draft](https://docs.google.com/presentation/d/1YBmfJ2yOlaomylhzkCNIPSoxClYus-hk2-i_hcmGUMo/edit#slide=id.p)
 #### Tools and Interactivity
 We will utilize Tableau Public for our visualizations. Also, we will have a webpage with links for Tableau Public and google slides as well as information and results from our model. Our interactive elements will include:  
-* "List of interactive elements"
+* Clickable links
+* Hover over data points
+* User able to highlight different data via legend
+
+[Draft of Dashboard](https://public.tableau.com/app/profile/elliott.saxton/viz/FinalProjectEmissions_16537991811610/Dashboard1?publish=yes)
