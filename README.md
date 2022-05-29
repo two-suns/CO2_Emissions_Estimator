@@ -50,5 +50,6 @@ We will utilize Tableau Public for our visualizations. Also, we will have a webp
 
 * Clickable links
 * Hover over data points
-* User able to highlight different data via legend
-Draft of Dashboard
+* User able to highlight different data via legend  
+
+[Draft of Dashboard](https://public.tableau.com/app/profile/elliott.saxton/viz/FinalProjectEmissions_16537991811610/Dashboard1?publish=yes)
