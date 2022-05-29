@@ -10,7 +10,7 @@ Other questions we hope to answer include:
 * What effect do different fuel modes have on emissions?  
 
 ### Technology
-Python, Jupyter Notebook, SQLite
+Python, Jupyter Notebook, SQLite, Tableau
 
 ### Communication Protocols
 The team will communicate mainly through Slack and Zoom meetings.
