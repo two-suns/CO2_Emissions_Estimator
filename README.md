@@ -10,14 +10,14 @@ Other questions we hope to answer include:
 * What effect do different fuel modes have on emissions?  
 
 ### Technology
-Python, Jupyter Notebook, SQLite
+Python, Jupyter Notebook, SQLite, Tableau
 
 ### Communication Protocols
 The team will communicate mainly through Slack and Zoom meetings.
 
 ### Data Source
 [Kaggle: CO<sub>2</sub> Emissions from Cars](https://www.kaggle.com/datasets/vivovinco/monitoring-of-co2-emissions-from-passenger-cars)  
-#### Main Project Files
+#### Main Project Files & Folders
 * ML Model
   - ML_Model_2.ipynb
 * Data Prep/Cleaning
@@ -26,6 +26,8 @@ The team will communicate mainly through Slack and Zoom meetings.
 * Database 
   - ERD & SQL Images/
   - Database/
+* Dashboard
+  - Final Project Emissions.twbx
 
 ### Data Exploration & Analysis
 #### Exploration
@@ -50,5 +52,6 @@ We will utilize Tableau Public for our visualizations. Also, we will have a webp
 
 * Clickable links
 * Hover over data points
-* User able to highlight different data via legend
-Draft of Dashboard
+* User able to highlight different data via legend  
+
+[Draft of Dashboard](https://public.tableau.com/app/profile/elliott.saxton/viz/FinalProjectEmissions_16537991811610/Dashboard1?publish=yes)
