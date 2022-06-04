@@ -34,6 +34,11 @@ Questions we hope to answer include:
 * Dashboard
   - Final Project Emissions.twbx
 
+## Database
+### ERD
+![ERD](https://user-images.githubusercontent.com/59906657/172000289-c3630506-8323-48ad-9899-96760583fd29.PNG)
+
+
 ## Data Exploration & Analysis
 ### Exploration
 During initial exploration of the data, the team found that only a selection of the 33 columns of the dataset would be usable for meaningful analysis. Therefore, we removed all columns except the following: ID, Mk, Category Type Approved, Category Registered, Ft, Fm, Mass, CO<sub>2</sub>, W, Steering Axle, Other Axle, Engine Capacity, and Engine Power. Then, we removed columns with null values that may throw off the model. This left us with over 12,000 rows of usable data.  
@@ -70,7 +75,7 @@ We will utilize Tableau Public for our visualizations. Also, we will have a webp
 * Hover over data points
 * User able to highlight different data via legend  
 
-[Draft of Dashboard](https://public.tableau.com/app/profile/elliott.saxton/viz/FinalProjectEmissions_16537991811610/Dashboard1?publish=yes)
+[Dashboard on Tableau Public](https://public.tableau.com/app/profile/elliott.saxton/viz/FinalProjectEmissions_16537991811610/Dashboard1?publish=yes)
 
 #### Presentation
-[Google Slides Draft](https://docs.google.com/presentation/d/1YBmfJ2yOlaomylhzkCNIPSoxClYus-hk2-i_hcmGUMo/edit#slide=id.p)
+[Google Slides Presentation](https://docs.google.com/presentation/d/1YBmfJ2yOlaomylhzkCNIPSoxClYus-hk2-i_hcmGUMo/edit#slide=id.p)
