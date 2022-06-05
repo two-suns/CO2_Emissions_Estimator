@@ -10,9 +10,10 @@ Questions we hope to answer include:
 
 ## Technology
 * Python
-  - Libraries: matplotlib, seaborn, sklearn, pandas, numpy, sqlalchemy, psycopg2, os, and sys  
-* Jupyter Notebook 
-* SQL
+  - Libraries: Matplotlib, Seaborn, Sklearn, Pandas, Numpy, Sqlalchemy, Psycopg2, os, sys, datetime, and math  
+* Jupyter Notebook
+* Database
+  - SQL, AWS RDS, Postgres, SQLite 
 * Tableau
 * HTML
 
@@ -34,11 +35,6 @@ Questions we hope to answer include:
 * Dashboard
   - Final Project Emissions.twbx
 
-## Database
-### ERD
-![ERD](https://user-images.githubusercontent.com/59906657/172000289-c3630506-8323-48ad-9899-96760583fd29.PNG)
-
-
 ## Data Exploration & Analysis
 ### Exploration
 During initial exploration of the data, the team found that only a selection of the 33 columns of the dataset would be usable for meaningful analysis. Therefore, we removed all columns except the following: ID, Mk, Category Type Approved, Category Registered, Ft, Fm, Mass, CO<sub>2</sub>, W, Steering Axle, Other Axle, Engine Capacity, and Engine Power. Then, we removed columns with null values that may throw off the model. This left us with over 12,000 rows of usable data.  
@@ -46,7 +42,14 @@ During initial exploration of the data, the team found that only a selection of 
 Next, we noticed that the Mk and Ft columns had duplicate values due to formatting differences. These were corrected for a more uniform appearance and more accurate analysis.  
 
 ### Analysis
-After the data was shaped, we created several scatter plots with our variables against CO<sub>2</sub> emissions in order to see their relationship. It was determined that most of the variables had a positve linear relationship with the emissions data. Therefore, we determined that a linear regression model would be best for our machine learning model.  
+After the data was shaped, we created several scatter plots with our variables against CO<sub>2</sub> emissions in order to see their relationship. It was determined that most of the variables had a positve linear relationship with the emissions data. Therefore, we determined that a linear regression model would be best for our machine learning model. 
+
+## Database
+### Process
+After initial cleaning, we split our data set into 2 tables; one with variables relating to car size and the other relating to car categories. We utilized Amazon Web Services Relational Database System to host our data. We linked it to the open source database Postgres in order to manipulate and join our tables using SQL.
+
+### ERD
+![ERD](https://user-images.githubusercontent.com/59906657/172000289-c3630506-8323-48ad-9899-96760583fd29.PNG)
 
 ## Machine Learning Model  
 ### Preprocessing and Data Split  
