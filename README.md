@@ -74,11 +74,10 @@ We set an 80% R2 score as the standard to reach for accuracy. First, we ran a mu
 #### Tools and Interactivity
 We will utilize Tableau Public for our visualizations. Also, we will have a webpage with links for Tableau Public and google slides as well as information and results from our model. Our interactive elements will include:
 
-* Clickable links
 * Hover over data points
 * User able to highlight different data via legend  
 
 [Dashboard on Tableau Public](https://public.tableau.com/app/profile/elliott.saxton/viz/FinalProjectEmissions_16537991811610/Dashboard1?publish=yes)
 
 #### Presentation
-[Google Slides Presentation](https://docs.google.com/presentation/d/1YBmfJ2yOlaomylhzkCNIPSoxClYus-hk2-i_hcmGUMo/edit#slide=id.p)
+[Google Slides Presentation](https://docs.google.com/presentation/d/1YBmfJ2yOlaomylhzkCNIPSoxClYus-hk2-i_hcmGUMo/edit?usp=sharing)
