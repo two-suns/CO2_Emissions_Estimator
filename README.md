@@ -77,7 +77,8 @@ We will utilize Tableau Public for our visualizations. Also, we will have a webp
 * Hover over data points
 * User able to highlight different data via legend  
 
-[Dashboard on Tableau Public](https://public.tableau.com/app/profile/elliott.saxton/viz/FinalProjectEmissions_16537991811610/Dashboard1?publish=yes)
+[Dashboard on Tableau Public](https://public.tableau.com/app/profile/elliott.saxton/viz/FinalProjectEmissions_16537991811610/Dashboard1?publish=yes)  
+[Story on Tableau Public](https://public.tableau.com/app/profile/elliott.saxton/viz/Story_16543998787720/Story1?publish=yes)
 
 #### Presentation
 [Google Slides Presentation](https://docs.google.com/presentation/d/1YBmfJ2yOlaomylhzkCNIPSoxClYus-hk2-i_hcmGUMo/edit?usp=sharing)
