@@ -43,10 +43,4 @@ Several of the columns we wanted to run through our models had 'object' data typ
 ### Feature Selection and Model Choice
 First, we ran a multiple linear regression model with all variables that showed an obvious linear relationship with emissions. Then, we added the other feature columns which improved the score by nearly 20 points. We also tried single linear regression models with each variable, LASSO Regression, and Ridge Regression. Neither of these models gave us as high of an R2 score as the multiple linear regression model. Therefore, we chose the multiple linear regression model to move forward with. The final database prep increased our data points by approimately 2x. This actually led to another increase in our R2 score by approximately 20 points.
 
-### Dashboard
-"Google Slides Link"
-#### Tools and Interactivity
-
-* "List of interactive elements"
-
 
